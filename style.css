@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+/* fonts */
+
+h1, h2 {
+    font-family: 'Merriweather', serif; 
+}
+
+p, button, input {
+    font-family: 'Lato', sans-serif;
+}
+
+
+header {
+    background-color: #D7D5FF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 730px;
+}
+
+.cabeçalho {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.cabeçalho h1 {
+    font-size: 32px;
+    font-weight: 400;
+    width: 80%;
+    color: #2B2B2B;
+}
+
+.cabeçalho p {
+    font-weight: 400;
+    font-size: 17px;
+    color: #555555;
+    width: 80%;
+    margin-top: 18px;
+}
+
+.imagem {
+    width: 80%;
+    height: 250px;
+    margin-top: 114px;
+}
+
+.cabeçalho button {
+    background: #6C63FF;
+    border-radius: 5px;
+    width: 155px;
+    height: 50px;
+    font-weight: 700;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-right: 160px;
+    margin-top: 32px;
+}
+
+.cards {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#
