@@ -179,6 +179,7 @@ input {
     width: 100%;
     border-radius: 5px;
     color: black;
+    font-size: 19px;
 }
 
 .nome {
@@ -244,5 +245,24 @@ footer button {
     color: #2B2B2B;
 }
 
+.formsbody {
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50%;
+}
+
+.formsbody a {
+    text-decoration: none;
+    font-size: 60px;
+    color: white;
+    margin-top: 50px;
+}
+
+.formstitle {
+    color: white;
+    font-size: 72px;
+}
 
 
