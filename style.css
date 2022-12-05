@@ -178,6 +178,7 @@ footer h1 {
 input {
     width: 100%;
     border-radius: 5px;
+    color: black;
 }
 
 .nome {
