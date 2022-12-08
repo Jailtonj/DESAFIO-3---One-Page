@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto de um Blog de notícias</h1>
+<h1 align="center"> Projeto de um site com cards</h1>
 
 <p align="center">
 Desafio exclusivo e gratuito, promovido pela comunidade do professor Iuri Code.
@@ -26,16 +26,15 @@ Desafio exclusivo e gratuito, promovido pela comunidade do professor Iuri Code.
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e Github
 
 ## 💻 Projeto
 
-Desafio que tinha como meta a construção de um blog para treinar o conhecimento em CSS, HTML e JavaScript.
+Desafio que tinha como meta a construção de um site com cards para treinar o conhecimento em CSS, HTML.
 
 ## 🌐 Deploy do projeto
 
-- <a target="_blank" href="https://jailtonj.github.io/DESAFIO-1---Blog/">Acesse aqui</a>
+- <a target="_blank" href="https://jailtonj.github.io/One-Page/">Acesse aqui</a>
 
 ## 🔖 Layout
 
